@@ -1,4 +1,4 @@
-cheatsheet
+cheatsheet, because we love cheatsheets
 
 global setup
 
